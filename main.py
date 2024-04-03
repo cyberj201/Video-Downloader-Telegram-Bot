@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+python3 main.py
 
 import requests, os, validators
 import youtube_dl
